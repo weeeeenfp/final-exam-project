@@ -1,3 +1,4 @@
 *.xml
 *.db
  __pycache__
+ *.png
